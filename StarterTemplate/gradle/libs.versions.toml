@@ -1,5 +1,5 @@
 [versions]
-spatialsdk = "0.6.1" # automated testing proof
+spatialsdk = "0.6.1" # no way
 agp = "8.5.0"
 kotlin = "2.0.20"
 coreKtx = "1.13.1"
